@@ -1,1 +1,1 @@
-# High-Availalbility---Setup-Eureka-Clustering
+# High-Availability---Setup-Eureka-Clustering
